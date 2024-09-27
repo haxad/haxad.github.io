@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://haxad.github.io/bav/sitemap.bav.gz
